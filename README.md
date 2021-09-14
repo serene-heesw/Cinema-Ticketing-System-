@@ -1,1 +1,1 @@
-# Cinema-Ticketing-Programming-C-
+# Cinema Ticketing C++
